@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\МОЕ\GB\Python_Course\Seminar_1\Z_3\obj\Debug\net6.0\Z_3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\МОЕ\GB\Python_Course\Seminar_1\Z_3\obj\Debug\net6.0\Z_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\МОЕ\GB\Python_Course\Seminar_1\Z_3\obj\Debug\net6.0\Z_3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\МОЕ\GB\Python_Course\Seminar_1\Z_3\obj\Debug\net6.0\Z_3.AssemblyInfo.cs
+C:\Users\User\Desktop\МОЕ\GB\Python_Course\Seminar_1\Z_3\obj\Debug\net6.0\Z_3.csproj.CoreCompileInputs.cache
